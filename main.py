@@ -1,4 +1,4 @@
-from PyQt5.QtWidgets import QMessageBox, QApplication,QFileDialog
+from PyQt5.QtWidgets import QMessageBox,QFileDialog
 import time
 from selenium import webdriver
 from selenium.webdriver.chrome.options import Options
